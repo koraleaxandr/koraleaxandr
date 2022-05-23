@@ -7,8 +7,9 @@
 # JavaScript/Front-end Developer
 
 ## My Stack
-![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) ![CSS](https://img.shields.io/badge/CSS-6E85B2?style=flat-square-endpoint&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-5089C6?style=flat-square-endpoint&logo=javascript&logoColor=)
 ![TypeScript](https://img.shields.io/badge/Type_Script-blue?style=flat-square-endpoint&logo=typescript&labelColor=F3F3F3&logoColor=blue)
+![Angular](https://img.shields.io/badge/Angular-D83A56?style=flat-square-endpoint&logo=angular&labelColor=F3F3F3&logoColor=D83A56)
+![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) ![CSS](https://img.shields.io/badge/CSS-6E85B2?style=flat-square-endpoint&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-5089C6?style=flat-square-endpoint&logo=javascript&logoColor=)
   ![Git](https://img.shields.io/badge/Git-6E85B2?style=flat-square-endpoint&logo=git&logoColor=) ![Webpack](https://img.shields.io/badge/Webpack-blue?style=flat-square-endpoint&logo=webpack&labelColor=F3F3F3&logoColor=blue) ![Node JS](https://img.shields.io/badge/Node_JS-EADEDE?style=flat-square-endpoint&logo=nodedotjs&logoColor=) ![Figma](https://img.shields.io/badge/Figma-892CDC?style=flat-square-endpoint&logo=figma&logoColor=892CDC&labelColor=EADEDE)
 
 [![CodeWars](https://www.codewars.com/users/koraleaxandr/badges/large)
@@ -18,8 +19,8 @@
 
 ## My projects
 [![RS-LANG](https://img.shields.io/badge/RS_LANG-green?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://ihar-dev.github.io/rslang/app/)
-[![Christmas Tree](https://img.shields.io/badge/Christmas_Tree-red?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/christmas-task/dist/)
-[![Youtube Client](https://img.shields.io/badge/Youtube Client-blue?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)]([https://koraleaxandr.github.io/youtube-client]([https://koraleaxandr.github.io/youtube-client](https://koraleaxandr.github.io/youtube-client)))
+[![Christmas Tree](https://img.shields.io/badge/Christmas_Tree-266e31?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/christmas-task/dist/)
+[![Youtube Client](https://img.shields.io/badge/Youtube%20Client-blue?style=flat-square-endpoint&logo=youtube&logoColor=2f80ed&labelColor=fff)](https://koraleaxandr.github.io/youtube-client)
  [![Art Quiz](https://img.shields.io/badge/Art_Quiz-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/art-quiz/)   [![News Portal](https://img.shields.io/badge/News_Portal-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/migration-to-TypeScript/)   [![Momentum](https://img.shields.io/badge/Momentum-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/momentum/)  [![Museum](https://img.shields.io/badge/Museum-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/museum/) [![cssMemSlider](https://img.shields.io/badge/cssMemSlider-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://koraleaxandr.github.io/cssMemSlider/cssMemSlider)
 
 ## My Contacts
