@@ -15,7 +15,7 @@
 [![CodeWars](https://www.codewars.com/users/koraleaxandr/badges/large)
 ](https://www.codewars.com/users/koraleaxandr)
 
-[![English level](https://img.shields.io/badge/English-A2+-2D46B9?style=flat-square-endpoint&labelColor=EADEDE&logoColor=2D46B9)]()
+[![English level](https://img.shields.io/badge/English-B1-2D46B9?style=flat-square-endpoint&labelColor=EADEDE&logoColor=2D46B9)]()
 
 ## My projects
 [![RS-LANG](https://img.shields.io/badge/RS_LANG-green?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://ihar-dev.github.io/rslang/app/)
