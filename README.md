@@ -18,7 +18,7 @@
 [![English level](https://img.shields.io/badge/English-B1-2D46B9?style=flat-square-endpoint&labelColor=EADEDE&logoColor=2D46B9)]()
 
 ## My projects
-### HTNL, CSS, JS
+### HTML, CSS, JS
 [![Momentum](https://img.shields.io/badge/Momentum-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/momentum/) 
 [![Museum](https://img.shields.io/badge/Museum-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/museum/)
 [![cssMemSlider](https://img.shields.io/badge/cssMemSlider-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://koraleaxandr.github.io/cssMemSlider/cssMemSlider)
