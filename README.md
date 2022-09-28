@@ -25,6 +25,7 @@
 [![Art Quiz](https://img.shields.io/badge/Art_Quiz-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/art-quiz/)
 ### Typescript
 [![RS-LANG](https://img.shields.io/badge/RS_LANG-green?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://ihar-dev.github.io/rslang/app/)
+[![Async Race](https://img.shields.io/badge/Async_Race-green?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)]([https://ihar-dev.github.io/rslang/app/](https://koraleaxandr.github.io/rsschool-cv/asyncrace/dist/))
 [![Christmas Tree](https://img.shields.io/badge/Christmas_Tree-266e31?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/christmas-task/dist/)
 [![News Portal](https://img.shields.io/badge/News_Portal-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/koraleaxandr-JSFE2021Q3/migration-to-TypeScript/dist)   
  ### Angular projects
