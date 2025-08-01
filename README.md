@@ -34,7 +34,6 @@
 
 ## My Contacts
 [![Discord](https://img.shields.io/badge/%40koraleaxandr%232545-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discord.com/) [![Gmail](https://img.shields.io/badge/Gmail-koraleaxandr-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:koraleaxandr@gmail.com) [![Telegram](https://img.shields.io/badge/%40koraleaxandr-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/koraleaxandr/)
-[![Skype](https://img.shields.io/badge/koralexandr-0078d4?style=flat-square-endpoint&logo=skype&logoColor=0078d4&labelColor=EEEEEE)](https://join.skype.com/invite/gJHRr0onOaHI)
 
 ## Stats
 [![koraleaxandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=koraleaxandr&hide=stars,issues,contribs&show_icons=true&theme=dark)](https://github.com/koraleaxandr/github-readme-stats)
